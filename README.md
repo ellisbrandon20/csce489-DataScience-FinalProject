@@ -29,7 +29,7 @@
 - TextBlob (classifier)
 
 ## Video
-[Check out our VIDEO](http://youtube.com)
+[Check out our VIDEO](https://www.youtube.com/watch?v=yidA-sBjFF4)
 
 ## Website
 [Check out our website](http://people.tamu.edu/~ccardin9/)
