@@ -1,13 +1,10 @@
-# 489Project
+# CSCE 489 Final Project README
 
+## How to navigate this repository
+<i class="icon-folder-open"></i>
 
-Donald Trump's announcement for candidacy June 16, 2015
-
-Hillary's announcement for candidacy April 12, 2015
-
-
-Tweet Breakdown:
-https://dev.twitter.com/overview/api/tweets
-
-News Outlets to Use
-['cnn','FoxNews','msnbc','usatoday','nytimes','wsj','CBSNews']
+## Needed packages
+- pygal (data visualization package)
+- wordcloud (data visualizaiton package)
+- Facebook scraper (see hyperlink in notebook)
+- TextBlob (classifier)
